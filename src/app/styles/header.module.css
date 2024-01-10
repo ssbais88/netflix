@@ -1,0 +1,33 @@
+.header{
+    overflow: hidden;
+    padding: 20px 20px;
+    background: transparent;
+    /* position: absolute; */
+    width: 100%;
+}
+
+.image {
+    margin-left: 60px;
+}
+
+.rightHeader{
+    float: right;
+}
+
+.select{
+    height: 30px;
+    width: 150px;
+    margin-right: 20px;
+    background: transparent;
+    border-radius: 5px;
+}
+
+.signIn{
+    background-color: red;
+    border-radius: 5px;
+    height: 34px;
+    width: 100px;
+    margin-right: 20px;
+    font-weight: 700;
+    font-size: 1rem;
+}
